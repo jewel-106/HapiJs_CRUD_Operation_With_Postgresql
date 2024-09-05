@@ -4,3 +4,8 @@ CRUD operation using Hapi js and postgresql
  "@hapi/hapi": "^20.0.0",\
  "pg": "^8.7.1",\
  "pg-promise": "^10.11.0"
+
+ ## Database configueation
+    ### create database in postgres
+    
+
