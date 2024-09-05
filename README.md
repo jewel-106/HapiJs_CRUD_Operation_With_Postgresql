@@ -6,6 +6,6 @@ CRUD operation using Hapi js and postgresql
  "pg-promise": "^10.11.0"
 
  ## Database configueation
-    ### create database in postgres
+    ### create database in postgres and execute operation
     
 
